@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "CacheField", "CacheField\CacheField.fsproj", "{E90481F0-25BE-4D2E-AE82-3E68DF76F71F}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Sample", "Sample\Sample.fsproj", "{095E5F3A-AC49-4A79-BF42-77015058594F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E90481F0-25BE-4D2E-AE82-3E68DF76F71F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E90481F0-25BE-4D2E-AE82-3E68DF76F71F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E90481F0-25BE-4D2E-AE82-3E68DF76F71F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E90481F0-25BE-4D2E-AE82-3E68DF76F71F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{095E5F3A-AC49-4A79-BF42-77015058594F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{095E5F3A-AC49-4A79-BF42-77015058594F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{095E5F3A-AC49-4A79-BF42-77015058594F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{095E5F3A-AC49-4A79-BF42-77015058594F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
